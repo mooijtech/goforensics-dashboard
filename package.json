@@ -24,7 +24,7 @@
     "graphology-layout": "^0.4.1",
     "graphology-layout-forceatlas2": "^0.8.1",
     "graphology-layout-noverlap": "^0.4.2",
-    "html-react-parser": "^1.4.0",
+    "html-react-parser": "1.4.14",
     "moment": "^2.29.1",
     "next": "latest",
     "next-images": "^1.7.0",
